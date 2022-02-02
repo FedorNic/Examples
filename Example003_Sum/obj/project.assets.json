@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Алеся\\.nuget\\packages\\": {}
+    "C:\\Users\\FedorNic\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Алеся\\Desktop\\Education\\C#\\Hello-Code\\Example003_Sum\\Example003_Sum.csproj",
+      "projectUniqueName": "C:\\Users\\FedorNic\\Desktop\\Education\\Git\\Examples\\Example003_Sum\\Example003_Sum.csproj",
       "projectName": "Example003_Sum",
-      "projectPath": "C:\\Users\\Алеся\\Desktop\\Education\\C#\\Hello-Code\\Example003_Sum\\Example003_Sum.csproj",
-      "packagesPath": "C:\\Users\\Алеся\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Алеся\\Desktop\\Education\\C#\\Hello-Code\\Example003_Sum\\obj\\",
+      "projectPath": "C:\\Users\\FedorNic\\Desktop\\Education\\Git\\Examples\\Example003_Sum\\Example003_Sum.csproj",
+      "packagesPath": "C:\\Users\\FedorNic\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\FedorNic\\Desktop\\Education\\Git\\Examples\\Example003_Sum\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Алеся\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\FedorNic\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
