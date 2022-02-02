@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Алеся\\.nuget\\packages\\": {}
+    "C:\\Users\\FedorNic\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Алеся\\Desktop\\Education\\C#\\Hello-Code\\Example_10_Dots\\Example_10_Dots.csproj",
+      "projectUniqueName": "C:\\Users\\FedorNic\\Desktop\\Education\\Git\\Examples\\Example_10_Dots\\Example_10_Dots.csproj",
       "projectName": "Example_10_Dots",
-      "projectPath": "C:\\Users\\Алеся\\Desktop\\Education\\C#\\Hello-Code\\Example_10_Dots\\Example_10_Dots.csproj",
-      "packagesPath": "C:\\Users\\Алеся\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Алеся\\Desktop\\Education\\C#\\Hello-Code\\Example_10_Dots\\obj\\",
+      "projectPath": "C:\\Users\\FedorNic\\Desktop\\Education\\Git\\Examples\\Example_10_Dots\\Example_10_Dots.csproj",
+      "packagesPath": "C:\\Users\\FedorNic\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\FedorNic\\Desktop\\Education\\Git\\Examples\\Example_10_Dots\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Алеся\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\FedorNic\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
