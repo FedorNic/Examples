@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Example_11_Sqer/1.0.0": {
+        "runtime": {
+          "Example_11_Sqer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Example_11_Sqer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

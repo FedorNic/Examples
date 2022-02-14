@@ -1,0 +1,15 @@
+C:\Users\FedorNic\Desktop\Education\Git\Examples\Example_11_Sqer\bin\Debug\net6.0\Example_11_Sqer.exe
+C:\Users\FedorNic\Desktop\Education\Git\Examples\Example_11_Sqer\bin\Debug\net6.0\Example_11_Sqer.deps.json
+C:\Users\FedorNic\Desktop\Education\Git\Examples\Example_11_Sqer\bin\Debug\net6.0\Example_11_Sqer.runtimeconfig.json
+C:\Users\FedorNic\Desktop\Education\Git\Examples\Example_11_Sqer\bin\Debug\net6.0\Example_11_Sqer.dll
+C:\Users\FedorNic\Desktop\Education\Git\Examples\Example_11_Sqer\bin\Debug\net6.0\ref\Example_11_Sqer.dll
+C:\Users\FedorNic\Desktop\Education\Git\Examples\Example_11_Sqer\bin\Debug\net6.0\Example_11_Sqer.pdb
+C:\Users\FedorNic\Desktop\Education\Git\Examples\Example_11_Sqer\obj\Debug\net6.0\Example_11_Sqer.csproj.AssemblyReference.cache
+C:\Users\FedorNic\Desktop\Education\Git\Examples\Example_11_Sqer\obj\Debug\net6.0\Example_11_Sqer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FedorNic\Desktop\Education\Git\Examples\Example_11_Sqer\obj\Debug\net6.0\Example_11_Sqer.AssemblyInfoInputs.cache
+C:\Users\FedorNic\Desktop\Education\Git\Examples\Example_11_Sqer\obj\Debug\net6.0\Example_11_Sqer.AssemblyInfo.cs
+C:\Users\FedorNic\Desktop\Education\Git\Examples\Example_11_Sqer\obj\Debug\net6.0\Example_11_Sqer.csproj.CoreCompileInputs.cache
+C:\Users\FedorNic\Desktop\Education\Git\Examples\Example_11_Sqer\obj\Debug\net6.0\Example_11_Sqer.dll
+C:\Users\FedorNic\Desktop\Education\Git\Examples\Example_11_Sqer\obj\Debug\net6.0\ref\Example_11_Sqer.dll
+C:\Users\FedorNic\Desktop\Education\Git\Examples\Example_11_Sqer\obj\Debug\net6.0\Example_11_Sqer.pdb
+C:\Users\FedorNic\Desktop\Education\Git\Examples\Example_11_Sqer\obj\Debug\net6.0\Example_11_Sqer.genruntimeconfig.cache

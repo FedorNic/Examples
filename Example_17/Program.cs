@@ -1,11 +1,15 @@
-﻿// Дано число. Проверить кратно ли оно 7 и 23
-Console.WriteLine("Введите число: ");
+﻿// 17. По двум заданным числам проверять является ли одно квадратом другого
+Console.WriteLine("Введите первое число: ");
 string num1 = Console.ReadLine();
 int number1 = Convert.ToInt32(num1);
 
-if (number1 %7 == 0 && number1 %23 == 0) 
+Console.WriteLine("Введите второе число: ");
+string num2 = Console.ReadLine();
+int number2 = Convert.ToInt32(num2);
 
-Console.WriteLine("Кратно 7 и 23");
+if (number1==number2*number2 || number2==number1*number1) 
+
+Console.WriteLine("Является");
 
 else
-    Console.WriteLine("Не кратно");
+    Console.WriteLine("Не является");

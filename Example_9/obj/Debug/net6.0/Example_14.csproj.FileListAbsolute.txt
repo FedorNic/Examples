@@ -1,0 +1,15 @@
+C:\Users\FedorNic\Desktop\Education\Git\Examples\Example_14\obj\Debug\net6.0\Example_14.csproj.AssemblyReference.cache
+C:\Users\FedorNic\Desktop\Education\Git\Examples\Example_14\obj\Debug\net6.0\Example_14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FedorNic\Desktop\Education\Git\Examples\Example_14\obj\Debug\net6.0\Example_14.AssemblyInfoInputs.cache
+C:\Users\FedorNic\Desktop\Education\Git\Examples\Example_14\obj\Debug\net6.0\Example_14.AssemblyInfo.cs
+C:\Users\FedorNic\Desktop\Education\Git\Examples\Example_14\obj\Debug\net6.0\Example_14.csproj.CoreCompileInputs.cache
+C:\Users\FedorNic\Desktop\Education\Git\Examples\Example_14\bin\Debug\net6.0\Example_14.exe
+C:\Users\FedorNic\Desktop\Education\Git\Examples\Example_14\bin\Debug\net6.0\Example_14.deps.json
+C:\Users\FedorNic\Desktop\Education\Git\Examples\Example_14\bin\Debug\net6.0\Example_14.runtimeconfig.json
+C:\Users\FedorNic\Desktop\Education\Git\Examples\Example_14\bin\Debug\net6.0\Example_14.dll
+C:\Users\FedorNic\Desktop\Education\Git\Examples\Example_14\bin\Debug\net6.0\ref\Example_14.dll
+C:\Users\FedorNic\Desktop\Education\Git\Examples\Example_14\bin\Debug\net6.0\Example_14.pdb
+C:\Users\FedorNic\Desktop\Education\Git\Examples\Example_14\obj\Debug\net6.0\Example_14.dll
+C:\Users\FedorNic\Desktop\Education\Git\Examples\Example_14\obj\Debug\net6.0\ref\Example_14.dll
+C:\Users\FedorNic\Desktop\Education\Git\Examples\Example_14\obj\Debug\net6.0\Example_14.pdb
+C:\Users\FedorNic\Desktop\Education\Git\Examples\Example_14\obj\Debug\net6.0\Example_14.genruntimeconfig.cache

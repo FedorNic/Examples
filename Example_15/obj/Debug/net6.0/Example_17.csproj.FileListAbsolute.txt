@@ -1,0 +1,15 @@
+C:\Users\FedorNic\Desktop\Education\Git\Examples\Example_17\bin\Debug\net6.0\Example_17.exe
+C:\Users\FedorNic\Desktop\Education\Git\Examples\Example_17\bin\Debug\net6.0\Example_17.deps.json
+C:\Users\FedorNic\Desktop\Education\Git\Examples\Example_17\bin\Debug\net6.0\Example_17.runtimeconfig.json
+C:\Users\FedorNic\Desktop\Education\Git\Examples\Example_17\bin\Debug\net6.0\Example_17.dll
+C:\Users\FedorNic\Desktop\Education\Git\Examples\Example_17\bin\Debug\net6.0\ref\Example_17.dll
+C:\Users\FedorNic\Desktop\Education\Git\Examples\Example_17\bin\Debug\net6.0\Example_17.pdb
+C:\Users\FedorNic\Desktop\Education\Git\Examples\Example_17\obj\Debug\net6.0\Example_17.csproj.AssemblyReference.cache
+C:\Users\FedorNic\Desktop\Education\Git\Examples\Example_17\obj\Debug\net6.0\Example_17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FedorNic\Desktop\Education\Git\Examples\Example_17\obj\Debug\net6.0\Example_17.AssemblyInfoInputs.cache
+C:\Users\FedorNic\Desktop\Education\Git\Examples\Example_17\obj\Debug\net6.0\Example_17.AssemblyInfo.cs
+C:\Users\FedorNic\Desktop\Education\Git\Examples\Example_17\obj\Debug\net6.0\Example_17.csproj.CoreCompileInputs.cache
+C:\Users\FedorNic\Desktop\Education\Git\Examples\Example_17\obj\Debug\net6.0\Example_17.dll
+C:\Users\FedorNic\Desktop\Education\Git\Examples\Example_17\obj\Debug\net6.0\ref\Example_17.dll
+C:\Users\FedorNic\Desktop\Education\Git\Examples\Example_17\obj\Debug\net6.0\Example_17.pdb
+C:\Users\FedorNic\Desktop\Education\Git\Examples\Example_17\obj\Debug\net6.0\Example_17.genruntimeconfig.cache

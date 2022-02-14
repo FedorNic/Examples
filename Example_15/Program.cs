@@ -1,8 +1,11 @@
-﻿// Дано число из отрезка [10, 99]. Показать наибольшую цифру числа
-int num = new Random().Next(10, 99);
-Console.WriteLine("Число равно:  " + num);
-int max1 = num / 10;
-int max2 = num % 10;
-int max = max1;
-if (max2 > max1) max = max2;
-Console.WriteLine(max);
+﻿// 15. Дано число. Проверить кратно ли оно 7 и 23
+Console.WriteLine("Введите число: ");
+string num1 = Console.ReadLine();
+int number1 = Convert.ToInt32(num1);
+
+if (number1 %7 == 0 && number1 %23 == 0) 
+
+Console.WriteLine("Кратно 7 и 23");
+
+else
+    Console.WriteLine("Не кратно");
