@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\FedorNic\\Desktop\\Education\\Git\\Examples\\Example_11_Sqer\\Example_11_Sqer.csproj",
-      "projectName": "Example_11_Sqer",
-      "projectPath": "C:\\Users\\FedorNic\\Desktop\\Education\\Git\\Examples\\Example_11_Sqer\\Example_11_Sqer.csproj",
+      "projectUniqueName": "C:\\Users\\FedorNic\\Desktop\\Education\\C#\\Examples\\Example_0\\Example_0.csproj",
+      "projectName": "Example_0",
+      "projectPath": "C:\\Users\\FedorNic\\Desktop\\Education\\C#\\Examples\\Example_0\\Example_0.csproj",
       "packagesPath": "C:\\Users\\FedorNic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\FedorNic\\Desktop\\Education\\Git\\Examples\\Example_11_Sqer\\obj\\",
+      "outputPath": "C:\\Users\\FedorNic\\Desktop\\Education\\C#\\Examples\\Example_0\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\FedorNic\\AppData\\Roaming\\NuGet\\NuGet.Config"
